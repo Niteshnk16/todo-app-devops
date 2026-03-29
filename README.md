@@ -1,4 +1,4 @@
-# tod0-app-devops
+# todo-app-devops
 
 Run these commands:
 
